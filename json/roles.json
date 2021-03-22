@@ -1,0 +1,114 @@
+[{
+		"id": "0",
+		"subject": "0",
+		"hex": "#ccc",
+		"textcolor": "#000",
+		"name": "Project",
+		"ABV": "PROJ",
+		"address": "306 / Auditorium 35",
+		"focus": "This is essentially the role of the client organisation.",
+		"desc": "The design of tall buildings requires a team approach between various disciplines of design, material fabrication and building construction. The member of the design subject group designs the building. It is also responsible for the facade and finishes in the building. They coordinate the team effort so that the different material, service, activity components and other parameters act as a whole in the design of the project.",
+		"more": "The architecture / design subject is responsible for the management of the useable spaces in the brief. The subject group needs to get their heads into the project quickly and start exploring the potential form (shape) and arrangement of the building to support the investigations of the other subjects. If this intial work is done well, it will provide you with a valuable perspective on the building design process. An example task will be to coordinate the shape of the floor plate with required rooms and the structural modules. Whilst you will have ideas for the building you will find that your time will also need to be spent coming up with good design solutions between the needs of the different members of the team."
+
+	},
+
+	{
+		"id": "0",
+		"subject": "1",
+		"hex": "#bbb",
+		"textcolor": "#000",
+		"name": "User",
+		"ABV": "USER",
+		
+		"address": "Building 313 (in the future)",
+		"focus": "This is the role of the end user of the building.",
+		"desc": "The end user and the client are not necessarily the same thing.",
+		"more": "The users needs are the most difficult thing to predict in the building."
+
+	},
+
+	{
+		"id": "0",
+		"subject": "2",
+		"hex": "#E83F48",
+		"textcolor": "#000",
+		"groupId": "65511",
+		"categoryId": "14624",
+		"name": "Architecture",
+		"ABV": "ARCH",
+		"invitation":"https://video.dtu.dk/playlist/dedicated/0_zaboa6q0/",
+		"address": "In Teams group",
+		"focus": "to attend to the design and the geometry of the building in cooperation with the other subject groups by including their contributions into the design.",
+		"desc": "The design of tall buildings requires a team approach between various disciplines of design, material fabrication and building construction. The member of the design subject group designs the building. It is also responsible for the facade and finishes in the building. They coordinate the team effort so that the different material, service, activity components and other parameters act as a whole in the design of the project.",
+		"more": "The architecture / design subject is responsible for the management of the useable spaces in the brief. The subject group needs to get their heads into the project quickly and start exploring the potential form (shape) and arrangement of the building to support the investigations of the other subjects. If this intial work is done well, it will provide you with a valuable perspective on the building design process. An example task will be to coordinate the shape of the floor plate with required rooms and the structural modules. Whilst you will have ideas for the building you will find that your time will also need to be spent coming up with good design solutions between the needs of the different members of the team."
+
+	},
+
+	{
+		"id": "1",
+		"subject": "3",
+		"hex": "#FC7634",
+		"textcolor": "#000",
+		"groupId": "65512",
+		"name": "Structural",
+		"ABV": "STR",
+		"invitation":"https://video.dtu.dk/playlist/dedicated/0_9jdd7hr2/",
+		"address": "In Teams group",
+		"desc": "The main role of structural engineers within civil engineering is the design of structures such as buildings, bridges and industrial facilities. In an ideal case structural engineers develop the initial design in partnership with architects.",
+		"more": "Today, the use of mathematical and numerical models of the structure to calculate the stresses that could arise from different load scenarios is common practice. In connection with the design of high-rise buildings the structural engineer needs to consider particular loading effects and service functions such as high local wind suction on façade elements, deflection due to wind and earthquake load, motion, occupant comfort to horizontal acceleration, internal stiffening system with integrated transportation systems and evacuation ways and vibration damping systems if required. Particularly in connection to wind effects and airflow around the building base the pedestrian wind comfort becomes an additional aspect concerning the overall architectural concept of the building shape, function and its close environment."
+	},
+
+	{
+		"id": "2",
+		"subject": "4",
+		"hex": "#F6D04D",
+		"textcolor": "#000",
+		"groupId": "65513",
+		"name": "MEP",
+		"ABV": "MEP",
+		"invitation":"https://video.dtu.dk/playlist/dedicated/0_l7zko3tf/",
+		"address": "In Teams group",
+		"desc": "The subject concerns building services and building energy has the purpose of ensuring that the building has low energy consumption and acceptable indoor climate concerning both thermal and atmospheric air quality as well as day lighting conditions.",
+		"more": "In subject 3, the work is to establish the technical design parameters of the building. This comprises both passive and active design strategies which is to be implemented in concepts for heating, cooling and ventilation. Therefore, subject 3 will work with room dimensions, daylight, façade design, ventilation type, heating and cooling supply, thermal simulations. One specific issue is to develop a system which will work in a high-rise building, which means that location of technical floors (mainly ventilation), pressure zones and space needed for the supply must be considered. The work in the subject requires – at least in the early phases – a large amount of coordination and integration with mainly subject 1, but also subject 2 and 5 are very important partners. Keep in mind that establishing the right combination of design parameters in the very early phase of the process is the only way to ensure that satisfactory indoor climate and low energy consumption in the building can be made possible."
+	},
+	{
+		"id": "3",
+		"subject": "5",
+		"hex": "#1FD082",
+		"textcolor": "#000",
+		"groupId": "65514",
+		"name": "GeoTech",
+		"ABV": "GEO",
+		"invitation":"https://video.dtu.dk/playlist/dedicated/0_uliuqh0j/",
+		"address": "In Teams group",
+		"desc": "Geotechnical engineering is the phase of civil engineering that deals with the state of rest or motion of soil under the action of force systems. As such, the subject 4 work comprises of the geotechnical design of the required temporary and permanent structures (referred to as 'underground works') in connection with the development of a high rise building.",
+		"more": "The role of the geotechnical engineer in this project is first of all to ensure a safe and robust load transfer from the building to the supporting ground without compromising the global stability of the structure. In addition to the bearing capacity of the foundation system, the induced soil deformations need to be limited in order to avoid additional distress to the structural elements (beams, columns, and slabs). Furthermore, the building is embedded in the ground as a consequence of the multi–storey underground space, located beneath the high rise and (possibly) the low rise part of the building. The geotechnical engineer will be responsible for proposing and designing feasible solutions providing:<ol type='a'><li>(a)safe excavation pit for the construction area of the building including parking area (temporary structure)</li><li> (b)safe and robust design of the foundation system  (permanent structure) and</li><li>(c)watertight and durable basement wall (permanent structure).</li></ol>"
+	},
+
+	{
+		"id": "4",
+		"subject": "6",
+		"hex": "#2F3EEA",
+		"textcolor": "#fff",
+		"groupId": "65515",
+		"name": "Fire",
+		"ABV": "FIRE",
+		"invitation":"https://video.dtu.dk/playlist/dedicated/0_86uc3sni/",
+		"address": "In Teams group",
+		"desc": "The subject of fire safety is divided into a part 1, focusing on the safety of occupants, and a part 2, focusing on the structural fire safety. This structure, reflects the timeline of a fire, which can also be divided into two main phases:",
+		"more": "<ol type='1'><li><mark>A pre-flashover phase</mark>, including an ignition phase and a growing phase, as combustible materials in the room are successively ignited and the fire spread in the compartment. In the pre-flashover phase, two zones can be identified in the compartment, a lower cooler zone and an upper zone filled with smoke and characterized by high temperatures. The premises should be promptly evacuated, as people safety can be at risk due to smoke in-halation and lack of visibility.</li><br><li> <mark>A post-flashover phase</mark>, including a fully developed fire phase and a decay phase, where temperature decreases as the fuel is consumed and the fire is extinguished. In the post-flashover phase the temperature of the gas, which are assumed to be uniform within the compartment, heat the structural elements, which may be at risk of failure.</li></ol>"
+	},
+
+	{
+		"id": "5",
+		"subject": "7",
+		"hex": "#79238E",
+		"textcolor": "#fff",
+		"groupId": "65516",
+		"name": "ICT/PM",
+		"ABV": "ITPM",
+		"address": "In Teams group",
+		"desc": "The project manager must ensure that the deliverables are created and submitted on time. Different strategies can be used to reach this goal. The project manager can direct team members to work in a specific way or leave the room and allow the participants to develop and implement a strategy to meet the goals.",
+		"YBL": "2.2 ICT management | In respect of agreed digital design work, the ICT manager is responsible for coordinating any digital cooperation between the consultants, design contractors, the client and any authorities together with the design manager. The digital design cooperation is organised based on the ICT specification of the consultancy agreement. If no ICT specification has been prepared, the ICT manager will organise the digital cooperation together with the consultants."
+	}
+]
