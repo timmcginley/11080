@@ -1,0 +1,289 @@
+[{
+		"groupId": "67805",
+		"name": "1,7",
+		"course":"11952",
+		"team":"1"
+	},
+	{
+		"groupId": "67740",
+		"name": "1,16",
+		"course":"11031",
+		"team":"1"
+	},
+	{
+		"groupId": "67812",
+		"name": "1,14",
+		"course":"11952",
+		"team":"1"
+	},
+	{
+		"groupId": "67815",
+		"name": "1,17",
+		"course":"11952",
+		"team":"1"
+	},
+	{
+		"groupId": "67727",
+		"name": "1,3",
+		"course":"11031",
+		"team":"1"
+	},
+	
+	{
+		"groupId": "67840",
+		"name": "2,6",
+		"course":"11031",
+		"team":"2"
+	},
+	{
+		"groupId": "67807",
+		"name": "1,9",
+		"course":"11952",
+		"team":"2"
+	},
+	{
+		"groupId": "67851",
+		"name": "2,17",
+		"course":"11031",
+		"team":"2"
+	},
+	{
+		"groupId": "67801",
+		"name": "1,3",
+		"course":"11952",
+		"team":"2"
+	},
+	
+	{
+		"groupId": "67730",
+		"name": "1,6",
+		"course":"11031",
+		"team":"3"
+	},
+	{
+		"groupId": "67818",
+		"name": "2,2",
+		"course":"11952",
+		"team":"3"
+	},
+	{
+		"groupId": "67735",
+		"name": "1,11",
+		"course":"11031",
+		"team":"3"
+	},
+	{
+		"groupId": "67821",
+		"name": "2,5",
+		"course":"11952",
+		"team":"3"
+	},
+	
+	{
+		"groupId": "67850",
+		"name": "2,16",
+		"course":"11031",
+		"team":"4"
+	},
+	{
+		"groupId": "67732",
+		"name": "1,8",
+		"course":"11031",
+		"team":"4"
+	},
+	{
+		"groupId": "67804",
+		"name": "1,6",
+		"course":"11952",
+		"team":"4"
+	},
+	{
+		"groupId": "67800",
+		"name": "1,2",
+		"course":"11952",
+		"team":"4"
+	},
+	
+	{
+		"groupId": "67731",
+		"name": "1,7",
+		"course":"11031",
+		"team":"5"
+	},
+	{
+		"groupId": "67729",
+		"name": "1,5",
+		"course":"11031",
+		"team":"5"
+	},
+	{
+		"groupId": "67824",
+		"name": "2,8",
+		"course":"11952",
+		"team":"5"
+	},
+	{
+		"groupId": "67813",
+		"name": "1,15",
+		"course":"11952",
+		"team":"5"
+	},
+	
+	{
+		"groupId": "67828",
+		"name": "2,12",
+		"course":"11952",
+		"team":"6"
+	},
+	{
+		"groupId": "67829",
+		"name": "2,13",
+		"course":"11952",
+		"team":"6"
+	},
+	{
+		"groupId": "67837",
+		"name": "2,3",
+		"course":"11031",
+		"team":"6"
+	},
+	{
+		"groupId": "67733",
+		"name": "1,9",
+		"course":"11031",
+		"team":"6"
+	},
+	
+	{
+		"groupId": "67726",
+		"name": "1,2",
+		"course":"11031",
+		"team":"7"
+	},
+	{
+		"groupId": "67737",
+		"name": "1,13",
+		"course":"11031",
+		"team":"7"
+	},
+	{
+		"groupId": "67816",
+		"name": "1,18",
+		"course":"11952",
+		"team":"7"
+	},
+	{
+		"groupId": "67811",
+		"name": "1,13",
+		"course":"11952",
+		"team":"7"
+	},
+	
+	{
+		"groupId": "67739",
+		"name": "1,15",
+		"course":"11031",
+		"team":"8"
+	},
+	{
+		"groupId": "67738",
+		"name": "1,14",
+		"course":"11031",
+		"team":"8"
+	},
+	{
+		"groupId": "67734",
+		"name": "1,10",
+		"course":"11031",
+		"team":"8"
+	},
+	{
+		"groupId": "67806",
+		"name": "1,8",
+		"course":"11952",
+		"team":"8"
+	},
+	{
+		"groupId": "67803",
+		"name": "1,5",
+		"course":"11952",
+		"team":"8"
+	},
+	
+	{
+		"groupId": "67802",
+		"name": "1,4",
+		"course":"11952",
+		"team":"9"
+	},
+	{
+		"groupId": "67826",
+		"name": "2,10",
+		"course":"11952",
+		"team":"9"
+	},
+	{
+		"groupId": "67741",
+		"name": "1,17",
+		"course":"11031",
+		"team":"9"
+	},
+	{
+		"groupId": "67834",
+		"name": "2,18",
+		"course":"11952",
+		"team":"9"
+	},
+	
+	{
+		"groupId": "67838",
+		"name": "2,4",
+		"course":"11031",
+		"team":"10"
+	},
+	{
+		"groupId": "67849",
+		"name": "2,15",
+		"course":"11031",
+		"team":"10"
+	},
+	{
+		"groupId": "67836",
+		"name": "2,2",
+		"course":"11031",
+		"team":"10"
+	},
+	{
+		"groupId": "67810",
+		"name": "1,12",
+		"course":"11952",
+		"team":"10"
+	},
+	
+	{
+		"groupId": "67808",
+		"name": "1,10",
+		"course":"11952",
+		"team":"11"
+	},
+	{
+		"groupId": "67736",
+		"name": "1,12",
+		"course":"11031",
+		"team":"11"
+	},
+	{
+		"groupId": "67816",
+		"name": "1,16",
+		"course":"11952",
+		"team":"11"
+	},
+	{
+		"groupId": "67842",
+		"name": "2,8",
+		"course":"11031",
+		"team":"11"
+	}
+
+
+]
