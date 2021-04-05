@@ -1,1 +1,1 @@
-ok this is bad ass
+document.getElementById("info").innerHTML = "you are bad at this";
