@@ -1,0 +1,19 @@
+[{
+		"name": "time",
+		"desc": "",
+		"values": [30, 35, 40],
+		"unit": "months"
+	},
+	{
+		"name": "cost",
+		"desc": "",
+		"values": [25, 30, 35],
+		"unit": "000 DKK / M2"
+	},
+	{
+		"name": "sustainability",
+		"desc": "",
+		"values": ["Platinum", "Gold", "Silver"],
+		"unit": "DGNB (adapted)"
+	}
+]
