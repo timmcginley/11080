@@ -82,7 +82,6 @@
 
 
 
-
 	{
 		"subject": "1",
 		"categoryId": "14624",
@@ -91,14 +90,18 @@
 		"name": "11353",
 		"desc": "Wood Structures"
 	},
+
+
 	{
 		"subject": "2",
 		"categoryId": "14624",
 		"groupId": "69796",
-		"points":2,
+		"points":1,
 		"name": "11115",
 		"desc": "Building energy and technical services - Integrated design"
 	},
+
+
 	{
 		"subject": "3",
 		"categoryId": "14624",
@@ -107,6 +110,8 @@
 		"name": "11418",
 		"desc": "Rock Physics and Rock Mechanics"
 	},
+
+
 	{
 		"subject": "4",
 		"categoryId": "14624",
@@ -115,6 +120,8 @@
 		"name": "11020",
 		"desc": "Building Fire Safety"
 	},	
+
+
 	{
 		"subject": "5",
 		"categoryId": "14624",
@@ -122,5 +129,61 @@
 		"points":2,
 		"name": "11034",
 		"desc": "Advanced Building Information Modelling (BIM)"
+	}
+	{
+		"subject": "5",
+		"categoryId": "14624",
+		"groupId": "69790",
+		"points":0.5,
+		"name": "41628",
+		"desc": "Conceptualisation"
+	}
+	{
+		"subject": "5",
+		"categoryId": "14624",
+		"groupId": "69790",
+		"points":1,
+		"name": "42090",
+		"desc": "Holistic Design of Engineering Systems"
+	}
+	{
+		"subject": "5",
+		"categoryId": "14624",
+		"groupId": "69790",
+		"points":2,
+		"name": "42372",
+		"desc": "Life Cycle Assessment of Products and Systems"
+	}
+	{
+		"subject": "5",
+		"categoryId": "14624",
+		"groupId": "69790",
+		"points":1,
+		"name": "42375",
+		"desc": "Advanced Life Cycle Assessment"
+	}
+	{
+		"subject": "5",
+		"categoryId": "14624",
+		"groupId": "69790",
+		"points":1,
+		"name": "42433",
+		"desc": "Advanced Engineering Project, Program and Portfolio Management"
+	}
+	{
+		"subject": "5",
+		"categoryId": "14624",
+		"groupId": "69790",
+		"points":0.5,
+		"name": "42634",
+		"desc": "X-Tech Entrepreneurship"
+	}
+	{
+		"subject": "5",
+		"categoryId": "14624",
+		"groupId": "69790",
+		"points":0.5,
+		"name": "11050",
+		"desc": "Super-light Structures"
 	}
 ]
