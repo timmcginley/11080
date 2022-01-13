@@ -80,8 +80,70 @@
 	},
 
 
-
-
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11050",
+		"desc": "Super-light Structures"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11023",
+		"desc": "Structural Fire Safety Design"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11320",
+		"desc": "Structural design of precast concrete buildings"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11331",
+		"desc": "Experimental Structural Mechanics"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11346",
+		"desc": "Computational Structural Modelling 2: Non-linear Finite Element Method"
+	},
+		{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11347",
+		"desc": "Computational structural modelling 3: Plasticity"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11351",
+		"desc": "Advanced Concrete Structures"
+	},	
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11352",
+		"desc": "Advanced Steel Structures"
+	},	
 	{
 		"subject": "1",
 		"categoryId": "14624",
@@ -90,8 +152,80 @@
 		"name": "11353",
 		"desc": "Wood Structures"
 	},
-
-
+{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11376",
+		"desc": "Probabilistic Modelling in Civil Engineering"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11563",
+		"desc": "Concrete Technology"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11569",
+		"desc": "Durability and repair of concrete structures"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11961",
+		"desc": "Structural Theories and Design"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11365",
+		"desc": "Glass and Glass Structures"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11374",
+		"desc": "Seismic and Wind Engineering"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11853",
+		"desc": "Sustainable building in extreme environments"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11858",
+		"desc": "The Arctic Infrastructure and Society"
+	},
+	{
+		"subject": "1",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "41237",
+		"desc": "Dynamics of structures: theory and analysis"
+	},
+	
+	
 	{
 		"subject": "2",
 		"categoryId": "14624",
@@ -100,6 +234,111 @@
 		"name": "11115",
 		"desc": "Building energy and technical services - Integrated design"
 	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11116",
+		"desc": "Sustainable Buildings"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11122",
+		"desc": "Heat and mass transfer in buildings"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11127",
+		"desc": "Sustainable heating and cooling of buildings"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11142",
+		"desc": "Daylight and lighting"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11221",
+		"desc": "Ventilation and Climatic Systems"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11222",
+		"desc": "Indoor Climate"
+	},
+		{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11522",
+		"desc": "Simulation of indoor environment and energy consumption using IDA ICE"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11108",
+		"desc": "Building Integrated Photovoltaics"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11117",
+		"desc": "Solar Heating Systems"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11128",
+		"desc": "Development of solar energy systems"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "31240",
+		"desc": "Architectural Acoustics"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "31241",
+		"desc": "Building Acoustics"
+	},
+	{
+		"subject": "2",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "31250",
+		"desc": "Environmental acoustics"
+	},
+
 
 
 	{
@@ -109,6 +348,78 @@
 		"points":2,
 		"name": "11418",
 		"desc": "Rock Physics and Rock Mechanics"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11420",
+		"desc": "Mineral resources"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11430",
+		"desc": "Advanced engineering geology: soil and porous rocks"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11464",
+		"desc": "Advanced Soil Mechanics"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11465",
+		"desc": "Advanced Geotechnical Engineering"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11411",
+		"desc": "Basic Soil Mechanics"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11462",
+		"desc": "Engineering Geology – an introductory course"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11463",
+		"desc": "Basic Geotechnical Engineering"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11466",
+		"desc": "Advanced Rock Mechanics and Tunnelling"
+	},
+	{
+		"subject": "3",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":1,
+		"name": "11467",
+		"desc": "Constitutive models and plasticity in soil mechanics"
 	},
 
 
@@ -120,6 +431,24 @@
 		"name": "11020",
 		"desc": "Building Fire Safety"
 	},	
+	{
+		"subject": "4",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":2,
+		"name": "11022",
+		"desc": "Fire Dynamics"
+	},	
+
+{
+		"subject": "4",
+		"categoryId": "14624",
+		"groupId": "69796",
+		"points":0.5,
+		"name": "11023",
+		"desc": "Structural Fire Safety Design"
+	},	
+
 
 
 	{
